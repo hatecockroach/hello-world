@@ -1,4 +1,2 @@
 # hello-world
-随便玩玩
-这还有啥好看的啊
-这个是branch里面的
+尝试了一下pull的功能
